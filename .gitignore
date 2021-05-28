@@ -2,6 +2,6 @@
 !solutions/*
 !README.md
 !.gitignore
-!lab?.c
-!Lab?.pdf
+!lab*.c
+!Lab*.pdf
 !*/
