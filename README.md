@@ -9,3 +9,6 @@
 | lab7     | 100   |                                                                                        |
 | lab8     |  65   | unfinished program, no comment, may even not work didn't have the time to test         |
 | lab9     |  90   | no comment, no score decrement happened due to ugly listing at the end, but it's ugly  |
+| lab11    | 100   |                                                                                        |
+| lab12    | 100   |                                                                                        |
+| lab13    | 100   |                                                                                        |
